@@ -112,3 +112,12 @@ function mediaNumeros (arrayNumeros){
 
 console.log (mediaNumeros(arrayNumeros = [2,3,4,5]));
 
+Symbol ("my symbol"); 
+
+let str1 = 'Hello';
+let str2 = 'World';
+
+let result = str1.concat(" ", str2); 
+//concat serve para concatenar (juntar) dois valores variáveis
+console.log(result); 
+
